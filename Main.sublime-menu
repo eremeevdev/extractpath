@@ -1,0 +1,13 @@
+[
+    {
+        "id": "goto",
+        "children":
+        [
+            {
+                "caption": "Extract path",
+                "command": "extractpath",
+
+            }
+        ]
+    }
+]
